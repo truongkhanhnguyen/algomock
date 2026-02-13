@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/marketing", "destination": "/marketing.html" }
-  ]
-}
